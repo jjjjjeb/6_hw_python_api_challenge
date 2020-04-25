@@ -1,10 +1,10 @@
 # WeatherPy
 
 Analysis on weather data pulled from open weather map api utilizing python, pandas, matplotlib & citipy.
-Jupyter notebook [here](./WeatherPy/WeatherPy.ipynb).
-Demo site [here](https://jjjjjeb.github.io/Web_Design_Challenge/).
+* Jupyter notebook [here](./WeatherPy/WeatherPy.ipynb).
+* Demo site [here](https://jjjjjeb.github.io/Web_Design_Challenge/).
 
-![Fig](./imgs/Latitude_vs_Temp.png)
+![Fig](./WeatherPy/imgs/Latitude_vs_Temp.png)
 
 ### Findings
 
